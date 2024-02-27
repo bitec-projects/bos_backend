@@ -1,6 +1,6 @@
 {
     "version": "0.0.1",
-    "name": "bos_backend",
+    "name": "@eduardo.bitec/bos_backend",
     "description": "bosBackend - Módulo de gestão e implementação de backend para a arquitetura Bier On Stack",
     "author": {
         "name": "Carlos Eduardo Bier"
